@@ -33,7 +33,8 @@ A C program that can solve, validate, and generate Sudoku puzzles with options f
 - `(no options)` — Solve the puzzle read from stdin  
 - `-c` — Check if the puzzle (from stdin) is valid  
 - `-g <nelts>` — Generate a new puzzle with `<nelts>` filled cells  
-- `-u` — (with `-g`) Ensure puzzle has unique solution 
+- `-u` — (with `-g`) Ensure puzzle has unique solution
+```
 
 ## Input/Output Format
 
